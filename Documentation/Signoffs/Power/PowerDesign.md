@@ -158,4 +158,5 @@ The operation of the LEDs is from 3-6 volt and 5-25mA. Since the strip of LEDs a
 | Splicer | Allows seperation of power shut off from all other subsystem | B0B28GYYL2 | XALXMAW | 20 | $12.98 | $12.98 |
 | Deans T Style connector | Allows connection from batteries to power distribution board | B07WHPD4KD | elechawk | 5 | $8.99 | $8.99 |
 |0.1uF Capacitor | Used to mitigate noise from the motors | N/A | N/A | 2 | Recycled | Recycled |
-|      |                                             |     |             |   |       | $112 |
+|Battery Charger| Used to charge lithium polymer batteries | B01NB9A36R | HOMEMART | 1 | $29.90 |  $29.90 |
+|      |                                             |     |             |   |       | $141.90 |
